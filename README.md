@@ -18,6 +18,9 @@ git clone https://github.com/Kultz-hub/v2-discord-bot-website-template.git
 
 Open index.html and edit whatever you want!
 
+### Another website
+[Make sure to check the v1 website too!](https://github.com/Kultz-hub/Discord-bot-website-template)
+
 ## Creator
 
 [Kultz](https://discord.gg/xyKPare)
