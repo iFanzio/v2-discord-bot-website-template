@@ -20,6 +20,6 @@ Open index.html and edit whatever you want!
 
 ## Creator
 
-[Kultz](https://discord.gg/xyKPare )
+[Kultz](https://discord.gg/xyKPare)
 
 ### Make sure to give me a star ⭐ :)
