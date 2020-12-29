@@ -1,6 +1,6 @@
 # Discord bot website
 
-A very nice a clean website for your discord bot!
+A very nice a clean website made for your discord bot!
 
 ![Screenshot](https://media.discordapp.net/attachments/783040336745594902/793528630817980476/Over_view.gif)
 
