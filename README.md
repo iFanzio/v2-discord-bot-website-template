@@ -1,4 +1,4 @@
-# Discord-bot-website-template
+# Discord bot website
 
 A very nice a clean website for your discord bot!
 
